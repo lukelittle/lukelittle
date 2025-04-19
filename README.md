@@ -9,10 +9,10 @@ I'm a software engineer based in Charlotte, NC with a passion for data engineeri
 ### 🏀 [CSCA5622 Final Project – NBA Playoff Prediction](https://github.com/lukelittle/csca5622-final-project)
 Predicts which NBA teams will make the playoffs using historical team performance, player stats, and injury data. This supervised learning model leverages multiple datasets to forecast playoff outcomes with solid accuracy.
 
-### 🔎 [CSCA5632 Final Project – NBA Archetypes with Unsupervised Learning](https://github.com/lukelittle/csca5632-final-project)
+### 🏀 [CSCA5632 Final Project – NBA Archetypes with Unsupervised Learning](https://github.com/lukelittle/csca5632-final-project)
 Applies clustering techniques to identify team archetypes across NBA history. Analyzes team stats, injuries, and shot locations to uncover natural groupings, strategic trends, and outlier seasons.
 
-### 🎯 [CSCA5642 Final Project – DeepShot: Neural Networks for Shot Prediction](https://github.com/lukelittle/csca5642-final-project)
+### 🏀 [CSCA5642 Final Project – DeepShot: Neural Networks for Shot Prediction](https://github.com/lukelittle/csca5642-final-project)
 Uses over 4.2 million shots from 2004–2024 to train deep learning models that optimize NBA shot selection. Combines CNNs for spatial recognition, player embeddings, and sequence models to incorporate real-time game context.
 
 ---
@@ -39,18 +39,9 @@ Uses over 4.2 million shots from 2004–2024 to train deep learning models that 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukelittle&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukelittle&layout=compact&theme=radical)](https://github.com/lukelittle/github-readme-stats)
-
----
-
 ## 🌐 Let’s Connect
 
 - 💼 Website: [lukelittle.com](https://lukelittle.com)
 - 🦋 Bluesky: [@lukelittle.com](https://bsky.app/profile/lukelittle.com)
 
 ---
-
-_Always tinkering, occasionally deploying._
